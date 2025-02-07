@@ -1,0 +1,52 @@
+html{
+    background-image:url(./images/arts/photo-1506143925201-0252c51780b0.jpg) ;
+    
+}
+.me{
+    font-family: Lucida Handwriting;
+    text-align: center;
+    
+}
+.myphoto{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+.yashu{
+    text-align: center;
+    color:black;
+    font-family: Fantasy;
+}
+.AKA{
+    color:darkslategrey;
+    text-align: center;
+    font-family: cursive;
+}
+.story{
+    font-family: Lucida Handwriting ;
+    
+}
+.starts{
+    font-family:cursive ;
+    color:darkslategrey;
+}
+.fav{
+    font-family: Lucida Handwriting;
+}
+.krishna{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+.last{
+    color:darkslategrey;
+    text-align: center;
+    font-family: cursive;  
+}
+.button{
+    color: black;
+    
+}
+button{
+    background-color:red;
+}
